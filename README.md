@@ -35,7 +35,7 @@ https://github.com/IBM/decentralized-energy-fabric-on-IBP20
 
 Deployed in the IBM Cloud IBP 2.0
 
-# Bloxkchain Bean 2
+# Blockchain Bean 2
 
 https://github.com/horeaporutiu/blockchainbean2
 
