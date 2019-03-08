@@ -22,3 +22,10 @@ Deploy locally
 https://github.com/IBM/global-financing-blockchain
 
 Deploy locally
+
+# Decentralized Energy with IBM Blockchain Platform 2.0
+
+https://github.com/IBM/decentralized-energy-fabric-on-IBP20
+
+Deployed in the IBM Cloud IBP 2.0
+
