@@ -6,7 +6,7 @@ https://github.com/hyperledger/fabric-samples
 
 # Tested Fabric sample apps
 
-# Fabcar
+# FabCar
   https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#
   Deploy locally
 
