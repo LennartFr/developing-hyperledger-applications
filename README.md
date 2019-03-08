@@ -1,4 +1,4 @@
-# Developing hyperledger applications
+# Developing Hyperledger Applications
 
 # Official Fabric Samples
 
