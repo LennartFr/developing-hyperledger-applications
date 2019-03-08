@@ -1,4 +1,5 @@
 # developing-hyperledger-applications
+# =============================================================================
 
 # Fabcar
   https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#
@@ -29,3 +30,8 @@ https://github.com/IBM/decentralized-energy-fabric-on-IBP20
 
 Deployed in the IBM Cloud IBP 2.0
 
+# Bloxkchain Bean 2
+
+https://github.com/horeaporutiu/blockchainbean2
+
+Deploy in the IBM Cloud 2.0
